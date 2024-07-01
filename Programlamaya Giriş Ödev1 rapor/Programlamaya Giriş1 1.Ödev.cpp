@@ -2,7 +2,7 @@
 **					SAKARYA ÜNİVERSİTESİ
 **			         BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
 **				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				          PROGRAMLAMAYA GİRİŞİ DERSİ
+**				          PROGRAMLAMAYA GİRİŞ DERSİ
 **
 **				ÖDEV NUMARASI…...:1
 **				ÖĞRENCİ ADI...............:Hasan Yasir
