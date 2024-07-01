@@ -5,7 +5,7 @@
 **				          PROGRAMLAMAYA GİRİŞİ DERSİ
 **
 **				ÖDEV NUMARASI…...: 2
-**				ÖĞRENCİ ADI...............: Hasan
+**				ÖĞRENCİ ADI...............: Hasan Yasir ARSLAN
 **				ÖĞRENCİ NUMARASI.: B221210096
 **				DERS GRUBU…………: A
 ****************************************************************************/
