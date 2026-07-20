@@ -1,0 +1,1 @@
+Txt dosyaları  herhangi bir belirtme olmadığı için dist klasöründen okunacak şekilde ayarlanmıştır.
